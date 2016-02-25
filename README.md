@@ -11,10 +11,13 @@ Xelerator has been added to Softpedia.com (1,604 downloads).
 http://www.softpedia.com/get/Network-Tools/Telnet-SSH-Clients/Xelerator.shtml 
 
 
-# Features
+# Screenshots
 
 "You can change the parameters of your project and the notifications settings from this window." 
+![alt tag](http://i1-win.softpedia-static.com/screenshots/Xelerator_1.png)
 
 "The Xelerator Server Setting tab allows you to enter the server address and the login credentials." 
+![alt tag](http://i1-win.softpedia-static.com/screenshots/Xelerator_2.png)
 
-"The program enables you to create new tasks and terminals by using the Edit menu." 
+"The program enables you to create new recording tasks and terminals by using the Edit menu." 
+![alt tag](http://i1-win.softpedia-static.com/screenshots/Xelerator_3.png)
